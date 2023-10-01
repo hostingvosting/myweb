@@ -7,14 +7,14 @@
       "name": "google"
     },
     {
-      "url": "https://hindilinks4u.baby/",
-      "searchUrl": "https://hindilinks4u.baby/?s=",
+      "url": "https://hindilinks4u.cheap/",
+      "searchUrl": "https://hindilinks4u.cheap/?s=",
       "emoji": "\uD83C\uDFA5 HLU",
       "name": "hindilinks4u"
     },
     {
-      "url": "https://hdmovie2.bar/",
-      "searchUrl": "https://hdmovie2.bar/?s=",
+      "url": "https://hdmovie2.social/",
+      "searchUrl": "https://hdmovie2.social/?s=",
       "emoji": "\uD83C\uDFA5 HDM",
       "name": "hdmovie2"
     },
@@ -25,8 +25,8 @@
       "name": "mkvin"
     },
     {
-      "url": "https://yomovies.monster/",
-      "searchUrl": "https://yomovies.monster/?s=",
+      "url": "https://yomovies.makeup/",
+      "searchUrl": "https://yomovies.makeup/?s=",
       "emoji": "\uD83C\uDFA5 YSM",
       "name": "yesmovies"
     },
