@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "url": "https://google.com",
+      "searchUrl": "https://google.com/search?q=",
+      "emoji": "\uD83C\uDF10 Google",
+      "name": "google"
+    },
+    {
+      "url": "https://hindilinks4u.baby/",
+      "searchUrl": "https://hindilinks4u.baby/?s=",
+      "emoji": "\uD83C\uDFA5 HLU",
+      "name": "hindilinks4u"
+    },
+    {
+      "url": "https://hdmovie2.bar/",
+      "searchUrl": "https://hdmovie2.bar/?s=",
+      "emoji": "\uD83C\uDFA5 HDM",
+      "name": "hdmovie2"
+    },
+    {
+      "url": "https://mkvin.com",
+      "searchUrl": "https://mkvin.com/?s=",
+      "emoji": "\uD83C\uDFA5 MKV - Download",
+      "name": "mkvin"
+    },
+    {
+      "url": "https://yomovies.monster/",
+      "searchUrl": "https://yomovies.monster/?s=",
+      "emoji": "\uD83C\uDFA5 YSM",
+      "name": "yesmovies"
+    },
+    {
+      "url": "https://freemovieswatch.tv/",
+      "searchUrl": "https://freemovieswatch.tv/search/",
+      "emoji": "\uD83C\uDFA5 FMS-English",
+      "name": "freemovieswatch"
+    },
+    {
+      "url": "https://losmovies.ru/home",
+      "searchUrl": "https://losmovies.ru/filter?keyword=",
+      "emoji": "\uD83C\uDFA5 LMS-English",
+      "name": "losmovies"
+    },
+    {
+      "url": "https://watch-free.tv/",
+      "searchUrl": "https://watch-free.tv/search?query=",
+      "emoji": "\uD83C\uDFA5 WF-English",
+      "name": "watch-free"
+    },
+    {
+      "url": "https://dotmovies.today/",
+      "searchUrl": "https://dotmovies.today/search/",
+      "emoji": "\uD83C\uDFA5 DOTMOV - Downloading Only",
+      "name": "dotmovies"
+    },
+    {
+      "url": "https://topmovies.love/",
+      "searchUrl": "https://topmovies.love/search/",
+      "emoji": "\uD83C\uDFA5 TMOV - Downloading Only",
+      "name": "topmovies"
+    },
+    {
+      "url": "https://m.vegamovies.im/",
+      "searchUrl": "https://m.vegamovies.im/search/",
+      "emoji": "\uD83C\uDFA5 VEGAMOV - Downloading Only",
+      "name": "vegamovies"
+    },
+    {
+      "url": "https://moviesmod.mobi/",
+      "searchUrl": "https://moviesmod.mobi/search/",
+      "emoji": "\uD83C\uDFA5 MMOD - Downloading Only",
+      "name": "moviesmod"
+    }
+  ]
+}
