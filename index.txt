@@ -13,8 +13,8 @@
       "name": "hindilinks4u"
     },
     {
-      "url": "https://hdmovie2.link/",
-      "searchUrl": "https://hdmovie2.link/?s=",
+      "url": "https://hdmovie2.codes/",
+      "searchUrl": "https://hdmovie2.codes/?s=",
       "emoji": "\uD83C\uDFA5 HDM",
       "name": "hdmovie2"
     },
