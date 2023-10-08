@@ -25,8 +25,8 @@
       "name": "mkvin"
     },
     {
-      "url": "https://yomovies.makeup/",
-      "searchUrl": "https://yomovies.makeup/?s=",
+      "url": "https://yomovies.network/",
+      "searchUrl": "https://yomovies.network/?s=",
       "emoji": "\uD83C\uDFA5 YSM",
       "name": "yesmovies"
     },
