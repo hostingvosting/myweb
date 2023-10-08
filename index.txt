@@ -49,8 +49,8 @@
       "name": "watch-free"
     },
     {
-      "url": "https://dotmovies.today/",
-      "searchUrl": "https://dotmovies.today/search/",
+      "url": "https://dotmovies.monster/",
+      "searchUrl": "https://dotmovies.monster/search/",
       "emoji": "\uD83C\uDFA5 DOTMOV - Downloading Only",
       "name": "dotmovies"
     },
