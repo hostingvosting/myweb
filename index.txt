@@ -28,7 +28,7 @@
       "url": "https://yomovies.network/",
       "searchUrl": "https://yomovies.network/?s=",
       "emoji": "\uD83C\uDFA5 YSM",
-      "name": "yesmovies"
+      "name": "yomovies"
     },
     {
       "url": "https://freemovieswatch.tv/",
