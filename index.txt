@@ -55,8 +55,8 @@
       "name": "dotmovies"
     },
     {
-      "url": "https://topmovies.help/",
-      "searchUrl": "https://topmovies.help/search/",
+      "url": "https://topmovies.dev/",
+      "searchUrl": "https://topmovies.dev/search/",
       "emoji": "\uD83C\uDFA5 TMOV - Downloading Only",
       "name": "topmovies"
     },
