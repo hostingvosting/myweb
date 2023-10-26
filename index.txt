@@ -7,6 +7,12 @@
       "name": "google"
     },
     {
+      "url": "https://prmovies.network/",
+      "searchUrl": "https://prmovies.network/?s=",
+      "emoji": "\uD83C\uDFA5 PRM",
+      "name": "prmovies"
+    },
+    {
       "url": "https://hindilinks4u.cheap/",
       "searchUrl": "https://hindilinks4u.cheap/?s=",
       "emoji": "\uD83C\uDFA5 HLU",
