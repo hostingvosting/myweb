@@ -31,9 +31,9 @@
     {
       "url": "https://mkvin.com",
       "searchUrl": "https://mkvin.com/?s=",
-      "emoji": "\uD83C\uDFA5 MKV - Download",
+      "emoji": "\uD83C\uDFA5 MKV",
       "name": "mkvin",
-      "category":"hindi"
+      "category":"hindi downloading"
     },
     {
       "url": "https://yomovies.network/",
