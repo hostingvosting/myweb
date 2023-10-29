@@ -4,79 +4,92 @@
       "url": "https://google.com",
       "searchUrl": "https://google.com/search?q=",
       "emoji": "\uD83C\uDF10 Google",
-      "name": "google"
+      "name": "google",
+      "category":"hindi"
     },
     {
       "url": "https://prmovies.network/",
       "searchUrl": "https://prmovies.network/?s=",
       "emoji": "\uD83C\uDFA5 PRM",
-      "name": "prmovies"
+      "name": "prmovies",
+      "category":"hindi"
     },
     {
       "url": "https://hindilinks4u.cheap/",
       "searchUrl": "https://hindilinks4u.cheap/?s=",
       "emoji": "\uD83C\uDFA5 HLU",
-      "name": "hindilinks4u"
+      "name": "hindilinks4u",
+      "category":"hindi"
     },
     {
       "url": "https://hdmovie2.codes/",
       "searchUrl": "https://hdmovie2.codes/?s=",
       "emoji": "\uD83C\uDFA5 HDM",
-      "name": "hdmovie2"
+      "name": "hdmovie2",
+      "category":"hindi"
     },
     {
       "url": "https://mkvin.com",
       "searchUrl": "https://mkvin.com/?s=",
       "emoji": "\uD83C\uDFA5 MKV - Download",
-      "name": "mkvin"
+      "name": "mkvin",
+      "category":"hindi"
     },
     {
       "url": "https://yomovies.network/",
       "searchUrl": "https://yomovies.network/?s=",
       "emoji": "\uD83C\uDFA5 YSM",
-      "name": "yomovies"
+      "name": "yomovies",
+      "category":"hindi"
     },
     {
       "url": "https://freemovieswatch.tv/",
       "searchUrl": "https://freemovieswatch.tv/search/",
-      "emoji": "\uD83C\uDFA5 FMS-English",
-      "name": "freemovieswatch"
+      "emoji": "\uD83C\uDFA5 FMS",
+      "name": "freemovieswatch",
+      "category":"english"
     },
     {
       "url": "https://losmovies.ru/home",
       "searchUrl": "https://losmovies.ru/filter?keyword=",
-      "emoji": "\uD83C\uDFA5 LMS-English",
-      "name": "losmovies"
+      "emoji": "\uD83C\uDFA5 LMS",
+      "name": "losmovies",
+      "category":"english"
     },
     {
       "url": "https://watch-free.tv/",
       "searchUrl": "https://watch-free.tv/search?query=",
-      "emoji": "\uD83C\uDFA5 WF-English",
-      "name": "watch-free"
+      "emoji": "\uD83C\uDFA5 WFT",
+      "name": "watch-free",
+      "category":"english"
     },
     {
       "url": "https://dotmovies.monster/",
       "searchUrl": "https://dotmovies.monster/search/",
-      "emoji": "\uD83C\uDFA5 DOTMOV - Downloading Only",
-      "name": "dotmovies"
+      "emoji": "\uD83C\uDFA5 DOTMOV",
+      "name": "dotmovies",
+      "category":"downloading"
     },
     {
       "url": "https://topmovies.dev/",
       "searchUrl": "https://topmovies.dev/search/",
-      "emoji": "\uD83C\uDFA5 TMOV - Downloading Only",
-      "name": "topmovies"
+      "emoji": "\uD83C\uDFA5 TMOV",
+      "name": "topmovies",
+      "category":"downloading"
     },
     {
       "url": "https://vegamovies.id/",
       "searchUrl": "https://vegamovies.id/search/",
-      "emoji": "\uD83C\uDFA5 VEGAMOV - Downloading Only",
-      "name": "vegamovies"
+      "emoji": "\uD83C\uDFA5 VEGAMOV",
+      "name": "vegamovies",
+      "category":"downloading"
     },
     {
       "url": "https://moviesmod.mobi/",
       "searchUrl": "https://moviesmod.mobi/search/",
-      "emoji": "\uD83C\uDFA5 MMOD - Downloading Only",
-      "name": "moviesmod"
+      "emoji": "\uD83C\uDFA5 MMOD",
+      "name": "moviesmod",
+      "category":"downloading"
     }
   ]
 }
