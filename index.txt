@@ -1,12 +1,6 @@
 {
   "data": [
-    {
-      "url": "https://google.com",
-      "searchUrl": "https://google.com/search?q=",
-      "emoji": "\uD83C\uDF10 Google",
-      "name": "google",
-      "category":"hindi"
-    },
+    
     {
       "url": "https://prmovies.network/",
       "searchUrl": "https://prmovies.network/?s=",
@@ -27,13 +21,6 @@
       "emoji": "\uD83C\uDFA5 HDM",
       "name": "hdmovie2",
       "category":"hindi"
-    },
-    {
-      "url": "https://mkvin.com",
-      "searchUrl": "https://mkvin.com/?s=",
-      "emoji": "\uD83C\uDFA5 MKV",
-      "name": "mkvin",
-      "category":"hindi downloading"
     },
     {
       "url": "https://yomovies.network/",
@@ -90,6 +77,13 @@
       "emoji": "\uD83C\uDFA5 MMOD",
       "name": "moviesmod",
       "category":"downloading"
+    },
+    {
+      "url": "https://mkvin.com",
+      "searchUrl": "https://mkvin.com/?s=",
+      "emoji": "\uD83C\uDFA5 MKV",
+      "name": "mkvin",
+      "category":"hindi downloading"
     }
   ]
 }
