@@ -1,14 +1,5 @@
 {
   "data": [
-
-
-    {
-      "url": "https://www.google.com/",
-      "searchUrl": "https://www.google.com/search?q=",
-      "emoji": "Google",
-      "name": "google",
-      "category":"hindi english downloading"
-    },
     {
       "url": "https://prmovies.network/",
       "searchUrl": "https://prmovies.network/?s=",
