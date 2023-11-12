@@ -52,7 +52,7 @@
     {
       "url": "https://dotmovies.monster/",
       "searchUrl": "https://dotmovies.monster/search/",
-      "emoji": "\uD83C\uDFA5 DOTMOV",
+      "emoji": "\uD83C\uDFA5 \n DotMovies",
       "name": "dotmovies",
       "category":"downloading"
     },
