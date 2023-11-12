@@ -65,7 +65,7 @@
     },
     {
       "url": "https://m.vegamovies.care/",
-      "searchUrl": "https://m.vegamovies.care/search/",
+      "searchUrl": "https://m.vegamovies.care/?s=",
       "emoji": "\uD83C\uDFA5 VEGAMOV",
       "name": "vegamovies",
       "category":"downloading"
