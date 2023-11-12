@@ -78,6 +78,13 @@
       "category":"downloading"
     },
     {
+      "url": "https://uhdmovies.zip/",
+      "searchUrl": "https://uhdmovies.zip/?s=",
+      "emoji": "\uD83C\uDFA5\nuhdmovies",
+      "name": "uhdmovies",
+      "category":"downloading"
+    },
+    {
       "url": "https://mkvin.com",
       "searchUrl": "https://mkvin.com/?s=",
       "emoji": "\uD83C\uDFA5 \n MKV\n VPN REQUIRED",
