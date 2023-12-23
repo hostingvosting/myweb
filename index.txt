@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "url": "https://prmovies.network/",
-      "searchUrl": "https://prmovies.network/?s=",
+      "url": "https://prmovies.best/",
+      "searchUrl": "https://prmovies.best/?s=",
       "emoji": "\uD83C\uDFA5 PRM",
       "name": "prmovies",
       "category":"hindi"
     },
     {
-      "url": "https://hindilinks4u.cheap/",
-      "searchUrl": "https://hindilinks4u.cheap/?s=",
+      "url": "https://hindilinks4u.gold/",
+      "searchUrl": "https://hindilinks4u.gold/?s=",
       "emoji": "\uD83C\uDFA5 HLU",
       "name": "hindilinks4u",
       "category":"hindi"
@@ -22,22 +22,15 @@
       "category":"hindi"
     },
     {
-      "url": "https://yomovies.network/",
-      "searchUrl": "https://yomovies.network/?s=",
+      "url": "https://yomovies.media/",
+      "searchUrl": "https://yomovies.media/?s=",
       "emoji": "\uD83C\uDFA5 YSM",
       "name": "yomovies",
       "category":"hindi"
     },
     {
-      "url": "https://freemovieswatch.tv/",
-      "searchUrl": "https://freemovieswatch.tv/search/",
-      "emoji": "\uD83C\uDFA5 FMS",
-      "name": "freemovieswatch",
-      "category":"english"
-    },
-    {
-      "url": "https://losmovies.ru/home",
-      "searchUrl": "https://losmovies.ru/filter?keyword=",
+      "url": "https://losmovies.id/home",
+      "searchUrl": "https://losmovies.id/filter?keyword=",
       "emoji": "\uD83C\uDFA5 LMS",
       "name": "losmovies",
       "category":"english"
@@ -50,29 +43,29 @@
       "category":"english"
     },
     {
-      "url": "https://dotmovies.gay/",
-      "searchUrl": "https://dotmovies.gay/search/",
+      "url": "https://dotmovies.bet/",
+      "searchUrl": "https://dotmovies.bet/search/",
       "emoji": "\uD83C\uDFA5 \n DotMovies",
       "name": "dotmovies",
       "category":"downloading"
     },
     {
-      "url": "https://topmovies.dev/",
-      "searchUrl": "https://topmovies.dev/search/",
+      "url": "https://topmovies.quest/",
+      "searchUrl": "https://topmovies.quest/search/",
       "emoji": "\uD83C\uDFA5 \nTopMovies",
       "name": "topmovies",
       "category":"downloading"
     },
     {
-      "url": "https://m.vegamovies.care/",
-      "searchUrl": "https://m.vegamovies.care/?s=",
+      "url": "https://vegamovies.dad/",
+      "searchUrl": "https://vegamovies.dad/?s=",
       "emoji": "\uD83C\uDFA5 \nVegaMovies",
       "name": "vegamovies",
       "category":"downloading"
     },
     {
-      "url": "https://moviesmod.mobi/",
-      "searchUrl": "https://moviesmod.mobi/search/",
+      "url": "https://moviesmod.dev/",
+      "searchUrl": "https://moviesmod.dev/search/",
       "emoji": "\uD83C\uDFA5 \nMoviesmod",
       "name": "moviesmod",
       "category":"downloading"
@@ -85,8 +78,8 @@
       "category":"downloading"
     },
     {
-      "url": "https://mkvin.com",
-      "searchUrl": "https://mkvin.com/?s=",
+      "url": "https://mkvin.fun",
+      "searchUrl": "https://mkvin.fun/?s=",
       "emoji": "\uD83C\uDFA5 \n MKV\n VPN REQUIRED",
       "name": "mkvin",
       "category":"hindi downloading"
