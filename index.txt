@@ -41,10 +41,10 @@
         "category":"english"
       },
       {
-        "url": "https://watch-free.tv/",
-        "searchUrl": "https://watch-free.tv/search?query=",
-        "emoji": "\uD83C\uDFA5 WFT",
-        "name": "watch-free",
+        "url": "https://hdtoday.watch/",
+        "searchUrl": "https://hdtoday.watch/search?query=",
+        "emoji": "\uD83C\uDFA5 HDT",
+        "name": "hdtoday",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/wft.png",
         "category":"english"
       },
