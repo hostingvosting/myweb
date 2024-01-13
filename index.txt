@@ -17,8 +17,8 @@
         "category":"hindi"
       },
       {
-        "url": "https://hdmovie2.ren/",
-        "searchUrl": "https://hdmovie2.ren/?s=",
+        "url": "https://hdmovie2.ist/",
+        "searchUrl": "https://hdmovie2.ist/?s=",
         "emoji": "\uD83C\uDFA5 HDM",
         "name": "hdmovie2",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/hdm.png",
