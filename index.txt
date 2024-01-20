@@ -95,6 +95,14 @@
         "name": "mkvin",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/mkv.png",
         "category":"hindi downloading"
+      },
+{
+        "url": "https://playdesi.net/",
+        "searchUrl": "https://playdesi.net/?s=",
+        "emoji": "\uD83C\uDFA5 \n PD\n VPN REQUIRED",
+        "name": "playdesi",
+        "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/mkv.png",
+        "category":"downloading"
       }
     ]
   }
