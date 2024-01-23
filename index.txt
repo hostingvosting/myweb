@@ -102,7 +102,7 @@
         "emoji": "\uD83C\uDFA5 \n PD\n VPN REQUIRED",
         "name": "playdesi",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/mkv.png",
-        "category":"downloading"
+        "category":"hindi english downloading"
       }
     ]
   }
