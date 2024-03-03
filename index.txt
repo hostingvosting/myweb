@@ -1,32 +1,32 @@
 {
     "data": [
       {
-        "url": "https://prmovies.wine/",
-        "searchUrl": "https://prmovies.wine/?s=",
+        "url": "https://prmovies.dog/",
+        "searchUrl": "https://prmovies.dog/?s=",
         "emoji": "\uD83C\uDFA5 PRM",
         "name": "prmovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/prm.png",
         "category":"hindi"
       },
       {
-        "url": "https://hindilinks4u.work/",
-        "searchUrl": "https://hindilinks4u.work/?s=",
+        "url": "https://hindilinks4u.guru/",
+        "searchUrl": "https://hindilinks4u.guru/?s=",
         "emoji": "\uD83C\uDFA5 HLU",
         "name": "hindilinks4u",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/hlu.png",
         "category":"hindi"
       },
       {
-        "url": "https://hdmovie2.sh/",
-        "searchUrl": "https://hdmovie2.sh/?s=",
+        "url": "https://hdmovie2.stream/",
+        "searchUrl": "https://hdmovie2.stream/?s=",
         "emoji": "\uD83C\uDFA5 HDM",
         "name": "hdmovie2",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/hdm.png",
         "category":"hindi"
       },
       {
-        "url": "https://yomovies.fit/",
-        "searchUrl": "https://yomovies.fit/?s=",
+        "url": "https://yomovies.town/",
+        "searchUrl": "https://yomovies.town/?s=",
         "emoji": "\uD83C\uDFA5 YSM",
         "name": "yomovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/ysm.png",
@@ -49,48 +49,48 @@
         "category":"english"
       },
       {
-        "url": "https://dotmovies.dad/",
-        "searchUrl": "https://dotmovies.dad/search/",
+        "url": "https://luxmovies.pro/",
+        "searchUrl": "https://luxmovies.pro/?s=",
         "emoji": "\uD83C\uDFA5 \n DotMovies",
         "name": "dotmovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/dotm.png",
         "category":"downloading"
       },
       {
-        "url": "https://topmovies.today/",
-        "searchUrl": "https://topmovies.today/search/",
+        "url": "https://topmovies.asia/",
+        "searchUrl": "https://topmovies.asia/search/",
         "emoji": "\uD83C\uDFA5 \nTopMovies",
         "name": "topmovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/topm.png",
         "category":"downloading"
       },
       {
-        "url": "https://vegamovies.ngo/",
-        "searchUrl": "https://vegamovies.ngo/?s=",
+        "url": "https://vegamovies.ong/",
+        "searchUrl": "https://vegamovies.ong/?s=",
         "emoji": "\uD83C\uDFA5 \nVegaMovies",
         "name": "vegamovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/vegam.png",
         "category":"downloading"
       },
       {
-        "url": "https://moviesmod.biz/",
-        "searchUrl": "https://moviesmod.biz/search/",
+        "url": "https://moviesmod.zip/",
+        "searchUrl": "https://moviesmod.zip/search/",
         "emoji": "\uD83C\uDFA5 \nMoviesmod",
         "name": "moviesmod",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/movm.png",
         "category":"downloading"
       },
       {
-        "url": "https://uhdmovies.us/",
-        "searchUrl": "https://uhdmovies.us/?s=",
+        "url": "https://uhdmovies.asia/",
+        "searchUrl": "https://uhdmovies.asia/?s=",
         "emoji": "\uD83C\uDFA5\nuhdmovies",
         "name": "uhdmovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/ultrahd.png",
         "category":"downloading"
       },
       {
-        "url": "https://mkvin.shop",
-        "searchUrl": "https://mkvin.shop/?s=",
+        "url": "https://mkvin.lat/",
+        "searchUrl": "https://mkvin.lat/?s=",
         "emoji": "\uD83C\uDFA5 \n MKV\n VPN REQUIRED",
         "name": "mkvin",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/mkv.png",
