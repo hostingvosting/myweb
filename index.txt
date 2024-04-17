@@ -1,8 +1,8 @@
 {
     "data": [
       {
-        "url": "https://prmovies.loan/",
-        "searchUrl": "https://prmovies.loan/?s=",
+        "url": "https://prmovies.rent/",
+        "searchUrl": "https://prmovies.rent/?s=",
         "emoji": "\uD83C\uDFA5 PRM",
         "name": "prmovies",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/prm.png",
