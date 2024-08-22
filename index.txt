@@ -41,8 +41,8 @@
         "category":"english"
       },
       {
-        "url": "https://soapertv.cc/",
-        "searchUrl": "https://soapertv.cc/search?query=",
+        "url": "https://1hd.to/home",
+        "searchUrl": "https://1hd.to/search?keyword=",
         "emoji": "\uD83C\uDFA5 HDT",
         "name": "hdtoday",
         "img_thumb":"https://hostingvosting.github.io/myweb/img_thumb/wft.png",
